@@ -1,0 +1,9 @@
+# Personal exports must stay on your devices.
+*.json
+*.jsonl
+*.zip
+*.jpg
+*.jpeg
+*.png
+*.webp
+.DS_Store
