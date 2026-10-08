@@ -1,1 +1,1 @@
-self.window=self;importScripts('catalog.js?v=4','matcher.js?v=4');self.onmessage=e=>{try{self.postMessage({ok:true,result:CardMatcher.match(e.data.visits,CardCatalog.locations,e.data.radius)})}catch{self.postMessage({ok:false})}};
+self.window=self;importScripts('catalog.js?v=5','matcher.js?v=5');self.onmessage=e=>{try{self.postMessage({ok:true,result:CardMatcher.match(e.data.visits,CardCatalog.locations,e.data.radius)})}catch{self.postMessage({ok:false})}};

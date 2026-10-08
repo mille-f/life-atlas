@@ -3,3 +3,4 @@
 
 
 .actions{display:flex;align-items:center;gap:12px;margin:12px 0}.actions button{width:auto;margin:0}.actions a{color:#285d4a}button:disabled{opacity:.45;cursor:default}.place h3{margin:0}.place p{margin:0}.place details textarea{width:100%;margin-top:12px}summary{cursor:pointer}
+.card-image-link{display:block;width:180px;max-width:100%;margin:12px 0 6px}.card-image{display:block;width:100%;height:260px;object-fit:contain;background:#f4f1ea;border-radius:8px}.image-credit{display:block;font-size:11px;margin-bottom:12px;color:#66736e}
